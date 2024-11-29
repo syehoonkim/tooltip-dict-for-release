@@ -24,4 +24,4 @@ pip install -r requirements.txt
 ```
 
 2. Append the programs' exe file name you want to use to app_list at the top of tooltip-dict.py.
-3. Edit make_tooltip() function in tooltip-dict.py to use the dictionary you want to use like the example.
+3. Edit make_tooltip() function in tooltip-dict.py to use the dictionary you want like the example.
