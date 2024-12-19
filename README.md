@@ -2,7 +2,7 @@
 
 파이썬 기반의 툴팁 사전입니다. 기본적으로 SumatraPDF에서 사용하도록 설정되어 있습니다.
 
-This is python 3 based tooltip dictionary. Basically this works with SumatraPDF.
+This is a python 3 based tooltip dictionary. Basically this works with SumatraPDF.
 
 ## 사용법
 
