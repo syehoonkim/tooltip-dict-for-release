@@ -12,8 +12,8 @@ This is a python 3 based tooltip dictionary. Basically this works with SumatraPD
 pip install -r requirements.txt
 ```
 
-2. tooltip-dict.py 파일의 가장 위에 있는 app_list 안에 원하는 프로그램의 exe명을 추가하세요.
-3. tooltip-dict.py 파일 안의 make_tooltip() 함수를 원하시는 사전에 맞게 수정해야 합니다. 예시 코드가 적혀있습니다.
+2. <code>tooltip-dict.py</code> 파일의 가장 위에 있는 <code>app_list</code> 안에 원하는 프로그램의 exe명을 추가하세요.
+3. <code>tooltip-dict.py</code> 파일 안의 <code>make_tooltip()</code> 함수를 원하시는 사전에 맞게 수정해야 합니다. 예시 코드가 적혀있습니다.
 
 ## How to Use
 
@@ -23,5 +23,5 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 
-2. Append the programs' exe file name you want to use to app_list at the top of tooltip-dict.py.
-3. Edit make_tooltip() function in tooltip-dict.py to use the dictionary you want like the example.
+2. Append the programs' exe file name you want to use to <code>app_list</code> at the top of <code>tooltip-dict.py</code>.
+3. Edit <code>make_tooltip()</code> function in <code>tooltip-dict.py</code> to use the dictionary you want like the example.
